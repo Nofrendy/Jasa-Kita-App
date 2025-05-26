@@ -70,8 +70,11 @@ Aplikasi ini masih dalam tahap pengembangan awal (v1.0), dan akan terus dikemban
 
 ## 👨‍💻 Tim Pengembang
 
-- Product Owner: [Nama kamu]
-- Scrum Team: [Tambahkan nama anggota tim lainnya]
+- Product Owner: [Nofrendy Azin]
+- Scrum Team: [Rahma Azhar]
+- Tim Developer [ Bagus Eka ]
+- Tim Developer [ Reva ]
+- Tim Developer [ Rahmawati ]
 
 ---
 
